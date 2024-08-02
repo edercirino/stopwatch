@@ -40,7 +40,7 @@ Project status: ✅Done
 
 - Clone this repository and save in your desktop directory
 - Double click on index.html
-- Click in star
+- Click in start
 - Enjoy it
 
 ## 🌐 Used Tecnologies
